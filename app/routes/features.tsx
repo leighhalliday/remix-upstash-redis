@@ -92,7 +92,7 @@ const FeatureList = () => {
             />
             <input type="hidden" name="feature" value={feature} />
             <button type="submit" className="btn-naked">
-              {active ? "✅" : "☑️"}
+              {active ? "💪" : "🦾"}
             </button>
           </Form>
 
